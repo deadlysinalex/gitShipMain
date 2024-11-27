@@ -25,7 +25,7 @@ float drift;
 color white = color(255);
 color grey = color(100);
 color black = color(0);
-color holo = color(255, 255, 0);
+color holo = color(0, 255, 255);
 
 //slider values: 0, 10 values set in code
 float slider1 = 0;
